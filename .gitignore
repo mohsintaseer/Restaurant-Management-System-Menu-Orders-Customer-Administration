@@ -1,0 +1,10 @@
+# Generated customer/order data may contain private information.
+Customerdetails.txt
+Fooditem-details.txt
+Receipt.txt
+ReceiptNumber.txt
+
+# Local build output.
+*.exe
+*.o
+*.obj
